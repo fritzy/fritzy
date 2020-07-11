@@ -6,7 +6,7 @@
 
 ### 🥼 Career
 
-I've been a professional software developer for 20 years, passionate about data protocols, APIs, and query languages. I was a very active member of the XMPP community, and served a term on the technical Counsel for the protocol. My last 10 years was spent as a co-founder, developer, software architect, and CTO at [&yet](https://andyet.com). Now I'm a Team Lead and Facilitiator at Pacific Northwest National Laboratory.
+I've been a professional software developer for 20 years, passionate about data protocols, APIs, and query languages. I was a very active member of the [XMPP community](https://xmpp.org), and served a term on the technical Counsel for the protocol. My last 10 years was spent as a co-founder, developer, software architect, and CTO at [&yet](https://andyet.com). Now I'm a Team Lead and Facilitiator at [Pacific Northwest National Laboratory](https://pnnl.gov).
 
 [2020 Résumé](https://raw.githubusercontent.com/fritzy/fritzy/master/docs/nathan-fritz-2020.pdf?raw=true)
 
