@@ -28,14 +28,14 @@ I've been a professional software developer for 20 years, passionate about data 
 
 ### 🎮 Playable Web Games
 
-[BrowerBall](https://browserball.com)  
-![BrowserBall Animation](imgs/browserball.gif?raw=true)
+[BrowserBall](https://browserball.com)  
+![BrowserBall Animation](https://raw.githubusercontent.com/fritzy/fritzy/master/imgs/browserball.gif?raw=true)
 
 [SpaceWar.pro](https://spacewar.pro)  
-![SpaceWar.pro Animation](imgs/spacewar.gif?raw=true)
+![SpaceWar.pro Animation](https://raw.githubusercontent.com/fritzy/fritzy/master/imgs/spacewar.gif?raw=true)
 
 [Talky Lander](https://talkylander.com)  
-![Talky Lander Animation](imgs/talkylander.gif?raw=true)
+![Talky Lander Animation](https://raw.githubusercontent.com/fritzy/fritzy/master/imgs/talkylander.gif?raw=true)
 
 <!--
 **fritzy/fritzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
