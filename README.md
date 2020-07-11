@@ -2,7 +2,7 @@
 🥼 Pacific Northwest National Laboratory  
 📈 Data specialist  
 🤫 Protocol whisperer  
-👨 Father
+👨 Father  
 🕹️ Game Dev hobbyist  
 
 ### 🥼 Career
