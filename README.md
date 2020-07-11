@@ -1,5 +1,12 @@
-### Hi there 👋
+### About Nathan
+🥼 Pacific Northwest National Laboratory  
+🕹️ Game Dev hobbyist  
+📈 Data specialist  
+🤫 Protocol whisperer  
 
+## 📓 Notable Projects
+
+- [SleekXMPP](https://github.com/fritzy/sleekxmpp)
 <!--
 **fritzy/fritzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
