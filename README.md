@@ -1,15 +1,15 @@
-## 📝 About Nathan 
-🥼 Pacific Northwest National Laboratory  
-📈 Data specialist  
-🤫 Protocol whisperer  
-👨 Father  
-🕹️ Game Dev hobbyist  
+| About                                     | Profiles  |
+|-----------------                          | --------- |
+| 🥼 Pacific Northwest National Laboratory  | 💻 [npmjs.com/~fritzy](https://npmjs.com/fritzy)  |
+| 📈 Data specialist                        | 🐤 [@fritzy](https://twitter.com)  |
+| 🤫 Protocol whisperer                     | 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-fritz-7054302/) |
+| 👨 Father                                 | 📝 [2020 Résumé](https://raw.githubusercontent.com/fritzy/fritzy/master/docs/nathan-fritz-2020.pdf?raw=true) |
+| 🕹️ Game Dev hobbyist                      |
+| 🌯 Burrito Eater                          |
 
 ### 🥼 Career
 
 I've been a professional software developer for 20 years, passionate about data protocols, APIs, and query languages. I was a very active member of the [XMPP community](https://xmpp.org), and served a term on the technical Counsel for the protocol. My last 10 years was spent as a co-founder, developer, software architect, and CTO at [&yet](https://andyet.com). Now I'm a Team Lead and Facilitiator at [Pacific Northwest National Laboratory](https://pnnl.gov).
-
-[2020 Résumé](https://raw.githubusercontent.com/fritzy/fritzy/master/docs/nathan-fritz-2020.pdf?raw=true)
 
 ### 📓 Notable Open Source Projects
 
@@ -22,12 +22,6 @@ I've been a professional software developer for 20 years, passionate about data 
 [@fritzy/ecs](https://github.com/fritzy/ecs-js) is my current open source work to make a performant and power Entity-Component-System JS library that provides Entity References and powerful/fast queries. It's most useful for simulations and games. The current work is being done in the `lightweight` branch.
 
 [Dulcimer](https://github.com/fritzy/Dulcimer) and it's dependency [VeryModel](https://github.com/fritzy/VeryModel) was an ORM wrapper for leveldb. It managed relationships in a very primitive embedded object store allowing you to write advanced queries. It gained some popularity and we actively used it at [&yet](https://andyet.com) for bots and small projects. I enjoy pointing it out to people when they say, "I could write my own small NoSQL database." You could, but it's more work than you might think. Related: [gatepost](https://github.com/fritzy/gatepost) (VeryModel for Postgresql queries) and [goalpost](https://github.com/fritzy/goalpost) (use Postgresql as an object store, unfinished).
-
-### 🍍 Other Profiles
-
-💻 [npmjs.com/~fritzy](https://npmjs.com/fritzy)  
-🐤 [@fritzy](https://twitter.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nathan-fritz-7054302/)
 
 ### 🎮 Playable Web Games
 
