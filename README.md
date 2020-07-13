@@ -4,6 +4,7 @@
 🤫 Protocol whisperer  
 👨 Father  
 🕹️ Game Dev hobbyist  
+🌯 Ester of Burritos
 
 ### 🥼 Career
 
