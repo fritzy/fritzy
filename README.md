@@ -1,11 +1,6 @@
-| About                                     | Profiles  |
-|-----------------                          | --------- |
-| 🥼 Pacific Northwest National Laboratory  | 💻 [npmjs.com/~fritzy](https://npmjs.com/fritzy)  |
-| 📈 Data specialist                        | 🐤 [@fritzy](https://twitter.com)  |
-| 🤫 Protocol whisperer                     | 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-fritz-7054302/) |
-| 👨 Father                                 | 📝 [2020 Résumé](https://raw.githubusercontent.com/fritzy/fritzy/master/docs/nathan-fritz-2020.pdf?raw=true) |
-| 🕹️ Game Dev hobbyist                      |
-| 🌯 Burrito Eater                          |
+| 🤔 About                                                                                                                                                                                                                  | 🏛️ Links                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🥼 Pacific Northwest National Laboratory<br>📈 Data specialist<br>🤫 Protocol whisperer                      <br>👨 Father                                  <br>🕹️ Game Dev hobbyist                      <br>🌯 Burrito Eater |  🐤 [@fritzy](https://twitter.com)<br> 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-fritz-7054302/) <br> 💻 [npmjs.com/~fritzy](https://npmjs.com/fritzy)<br> 📝 [2020 Résumé](https://raw.githubusercontent.com/fritzy/fritzy/master/docs/nathan-fritz-2020.pdf?raw=true) |
 
 ### 🥼 Career
 
