@@ -14,7 +14,7 @@ I've been a professional software developer for 20 years. I'm passionate about d
 
 [spacewar.pro](https://spacewar.pro) ([source](https://github.com/fritzy/spacewar.pro)) is a tribute to the [DOS version of SPACEWAR.EXE](https://archive.org/details/msdos_Spacewar_1985) from the '80s. It was an exercise in finishing a small game, and the only complete game I've open sourced so far.
 
-[Ape ECS](https://github.com/fritzy/ape-ecs) is my current open source work to make a performant and power Entity-Component-System JS library that provides Entity References and powerful/fast queries. It's most useful for simulations and games. The current work is being done in the `lightweight` branch.
+[Ape ECS](https://github.com/fritzy/ape-ecs) is my current open source work to make a performant and powerful Entity-Component-System JS library that provides Entity References and powerful/fast queries. It's most useful for simulations and games. The current work is being done in the `lightweight` branch.
 
 [Dulcimer](https://github.com/fritzy/Dulcimer) and it's dependency [VeryModel](https://github.com/fritzy/VeryModel) was an ORM wrapper for leveldb. It managed relationships in a very primitive embedded object store allowing you to write advanced queries. It gained some popularity and we actively used it at [&yet](https://andyet.com) for bots and small projects. I enjoy pointing it out to people when they say, "I could write my own small NoSQL database." You could, but it's more work than you might think. Related: [gatepost](https://github.com/fritzy/gatepost) (VeryModel for Postgresql queries) and [goalpost](https://github.com/fritzy/goalpost) (use Postgresql as an object store, unfinished).
 
