@@ -58,4 +58,4 @@ If this sounds like you, please reach out.
 
 -Nathan Fritz  
 [nathanfritz@gmail.com](mailto:nathanfritz@gmail.com)  
-[@fritzy](https://twitter.com)
+[@fritzy](https://twitter.com/fritzy)
