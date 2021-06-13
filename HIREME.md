@@ -13,7 +13,7 @@ The through-line of passion of success in my career has been enabling other deve
 
 I have a deep understanding of performance, service architecture, and software development approaches. I believe that software lives and dies on writing services that are understandable, scalable, and maintainable.
 
-* I recently wrote about my [Web Architecture Core Beliefs](https://dev.to/fritzy/.one-web-architect-s-core-beliefs-335f)
+* I recently wrote about my [Web Architecture Core Beliefs](https://dev.to/fritzy/one-web-architect-s-core-beliefs-335f)
 * I've developed and assisted in development of countless web APIs as a consultant.
 * I'm passionate about defensive coding, and can help your team write more secure software.
 * I'm intimately familiar with OAuth2. For example, I wrote the first Alexa Skill for AT&T SMS Messaging, involving a dual-linked OAuth2 workflow between both services.
