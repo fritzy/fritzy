@@ -15,9 +15,9 @@ Now I'm a Senior Software Engineer & Facilitiator at [Pacific Northwest National
 
 [🦍 Ape ECS](https://github.com/fritzy/ape-ecs) is a performant and powerful Entity-Component-System JS library that provides Entity References and powerful/fast queries. It's most useful for simulations and games.
 
-[🖧 SleekXMPP](https://github.com/fritzy/sleekxmpp) (deprecated) was a Python 2.x XMPP protocol library that was heavily used the power industry, used on game consoles, used for the examples in [XMPP: The Definitive Guide published by O'Reilly](https://www.oreilly.com/library/view/xmpp-the-definitive/9780596157524/). When I stopped doing as much Python, Python 3 came out, and I made it Python 3 compatible, but never removed Python 2.7 support. A Python 3 fork called [SliXMPP](https://github.com/poezio/slixmpp) was made, and I recommend that going forward.
+[🖧 SleekXMPP](https://github.com/fritzy/sleekxmpp) (deprecated) was a Python 2.x XMPP protocol library that was heavily used the solar power industry, used on major game consoles, used for the examples in [XMPP: The Definitive Guide published by O'Reilly](https://www.oreilly.com/library/view/xmpp-the-definitive/9780596157524/). When I stopped doing as much Python, Python 3 came out, and I made it Python 3 compatible, but never removed Python 2.7 support. A Python 3 fork called [SliXMPP](https://github.com/poezio/slixmpp) was made, and I recommend that going forward.
 
-[⬇ staydown](https://github.com/fritzy/staydown) is a JS module that I wish more people would use because so many applications get chatlog scrolling and user-intention incorrect. This makes chat-style scrolling work the way users expect, like a native app.
+[👇 staydown](https://github.com/fritzy/staydown) is a JS module that I wish more people would use because so many applications get chatlog scrolling and user-intention incorrect. This makes chat-style scrolling work the way users expect, like a native app.
 
 [👾 spacewar.pro](https://spacewar.pro) ([source](https://github.com/fritzy/spacewar.pro)) is a tribute to the [DOS version of SPACEWAR.EXE](https://archive.org/details/msdos_Spacewar_1985) from the '80s. It was an exercise in finishing a small game.
 
