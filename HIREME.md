@@ -7,7 +7,7 @@
 
 👋 Hi, I'm Nathan Fritz, aka [@fritzy](https://twitter.com/fritzy), and I've been a web developer and architect for more than 20 years. I'll take your team and projects to the next level.
 
-The through-line of passion of success in my career has been enabling other developers. I enjoy creating tools, libraries, and services that help developers focus on solving their core problems. I mentor, present, teach, and encourage developers to new heights. I thrive on self-directed learning and then applying it to enable my peers.
+The through-line of passion and success in my career has been enabling other developers. I enjoy creating tools, libraries, and services that help developers focus on solving their core problems. I mentor, present, teach, and encourage developers to new heights. I thrive on self-directed learning and then applying it to enable my peers.
 
 ## I Love Software Architecture
 
