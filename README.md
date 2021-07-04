@@ -1,8 +1,7 @@
 | 🤔 About                                                                                                                                                                                                                  | 🏛️ Links                                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 👨‍💻 Senior Software Developer & Architect<br>🥼[Pacific Northwest National Laboratory](https://pnnl.gov)<br>📈 Databases, Protocols, & Architecture<br>🕹️ Game Dev hobbyist<br>🌯 Burrito Eater |🐤 [@fritzy](https://twitter.com/fritzy)<br> 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-fritz-7054302/) <br> 💻 [npmjs.com/~fritzy](https://npmjs.com/fritzy)<br> 📝 [2020 Résumé](https://raw.githubusercontent.com/fritzy/fritzy/master/docs/nathan-fritz-2020.pdf?raw=true) |
+| 👨‍💻 Senior Software Developer & Architect<br>💬 Open Source<br>📈 Databases, Protocols, & Architecture<br>🕹️ Game Dev hobbyist<br>🌯 Burrito Eater |🐤 [@fritzy](https://twitter.com/fritzy)<br> 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-fritz-7054302/) <br> 💻 [npmjs.com/~fritzy](https://npmjs.com/fritzy)
 
-## [💼 I'm Looking For Work!](HIREME.md)
 
 ## 🥼 Career
 
