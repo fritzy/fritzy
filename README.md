@@ -3,13 +3,6 @@
 | 👨‍💻 Senior Software Developer & Architect<br>💬 Open Source<br>📈 Databases, Protocols, & Architecture<br>🕹️ Game Dev hobbyist<br>🌯 Burrito Eater |🐤 [@fritzy](https://twitter.com/fritzy)<br> 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-fritz-7054302/) <br> 💻 [npmjs.com/~fritzy](https://npmjs.com/fritzy)
 
 
-## 🥼 Career
-
-I've been a professional software developer for 20 years. I'm passionate about data protocols, APIs, and query languages.
-I was a very active member of the [XMPP community](https://xmpp.org), and served a term on the technical Counsel for the protocol.
-My last 10 years was spent as a co-founder, developer, software architect, and CTO at [&yet](https://andyet.com).
-Now I'm a Senior Software Engineer & Facilitiator at [Pacific Northwest National Laboratory](https://pnnl.gov).
-
 ## 📓 Notable Open Source Projects
 
 [🦍 Ape ECS](https://github.com/fritzy/ape-ecs) is a performant and powerful Entity-Component-System JS library that provides Entity References and powerful/fast queries. It's most useful for simulations and games.
